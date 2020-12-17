@@ -1,0 +1,11 @@
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+c:\Users\a.szramowski\source\repos\SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
