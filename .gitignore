@@ -1,4 +1,6 @@
 SportStore/SportsStore/obj/
 SportStore/SportsStore/bin/
+SportStore/SportStore.Tests/bin/
+SportStore/SportStore.Tests/obj/
 
-.vs
+.vs/
