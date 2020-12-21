@@ -29,7 +29,7 @@ namespace SportsStore.Tests
             controller.PageSize = 3;
 
             // Act
-            IEnumerable<Product> result = controller.List(2).ViewData.Model as IEnumerable<Product>;
+            IEnumerable<Product> result = controller.List(null, 2).ViewData.Model as IEnumerable<Product>;
 
             // Assert
             Product[] prodArray = result.ToArray();
