@@ -13652,11 +13652,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
+      "projectPath": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\a.szramowski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\obj\\",
+      "outputPath": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

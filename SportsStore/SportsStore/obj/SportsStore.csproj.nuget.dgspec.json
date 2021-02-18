@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {}
+    "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {
+    "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectPath": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\a.szramowski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\obj\\",
+        "outputPath": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[2.0.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.4, )"
             }
           },
           "imports": [
