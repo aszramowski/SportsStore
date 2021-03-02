@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {}
+    "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\a.szramowski\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\a.szramowski\\source\\repos\\SportsStore\\SportsStore\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,10 +57,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
